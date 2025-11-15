@@ -42,5 +42,4 @@ class Solution:
 
 
 
-k = Solution()
-print(k.convert(s="PAYPALISHIRING", numRows=4))
+
